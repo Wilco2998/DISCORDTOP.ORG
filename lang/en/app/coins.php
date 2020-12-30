@@ -1,21 +1,21 @@
 <?php
 
-	$COINS_DEDIPASS_SUCCESS_PART_1 = "Nous vous remercions pour votre confiance et votre fidélité, ";
-	$COINS_DEDIPASS_SUCCESS_PART_2 = " coins viennent de vous être crédités !";
+	$COINS_DEDIPASS_SUCCESS_PART_1 = "We thank you for your trust and loyalty, ";
+	$COINS_DEDIPASS_SUCCESS_PART_2 = "coins have just been credited to you!";
 
-	$COINS_DEDIPASS_ERROR_PART_1 = "Le code ";
-	$COINS_DEDIPASS_ERROR_PART_2 = " est invalide !";
+	$COINS_DEDIPASS_ERROR_PART_1 = "The code ";
+	$COINS_DEDIPASS_ERROR_PART_2 = " is invalid!";
 
-	$COINS_DEDIPASS_TITLE = "Créditer mon compte avec Dédipass";
+	$COINS_DEDIPASS_TITLE = "Credit my account with Dédipass";
 	$COINS_DEDIPASS_BALANCE = "My account :";
-	$COINS_DEDIPASS_FOR = "À quoi servent les coins ?";
-	$COINS_DEDIPASS_TEXT = "Pour acheter des mises en avant ainsi que des abonnements... il te faut des coins, les coins sont la monnaie virtuelle de DiscordTop, sans eux tu ne pourras pas obtenir des produits de notre boutique.";
+	$COINS_DEDIPASS_FOR = "What are the coins used for?";
+	$COINS_DEDIPASS_TEXT = "To buy highlights and subscriptions... you need coins, the coins are DiscordTop's virtual currency, without them you won't be able to get products from our shop.";
 	$COINS_DEDIPASS_NAME = "Dédipass";
 
 
-	$COINS_GIFT_TITLE = "Créditer mon compte avec un code cadeau";
+	$COINS_GIFT_TITLE = "Create my account with a gift code";
 	$COINS_GIFT_BALANCE = "My account :";
-	$COINS_GIFT_FOR = "Comment obtenir un code cadeau ?";
+	$COINS_GIFT_FOR = "How do I get a gift code?";
 	$COINS_GIFT_TEXT = "Notre Discord est une mine à cadeau, dans celui-ci vous pourrez participer à des AirDrop's, des giveaways et d'autres animations qui vous permettront d'obtenir gratuitement des codes cadeaux !";
 	$COINS_GIFT_NAME = "Use a Gift Code";
 	$COINS_GIFT_ENTER = "Enter a gift code !";
